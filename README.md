@@ -1,9 +1,9 @@
 # Armaghan - Online Handicrafts Store 🛍️
 
-A lightweight, native PHP e-commerce platform designed for selling handicrafts and handmade products. This project was developed as a university bachelor's thesis to demonstrate full-stack web development concepts.
+This is a lightweight, native PHP e-commerce platform created to sell handmade products like cushions, wooden crafts, and puffs. It was developed as part of a university bachelor's thesis to showcase full-stack web development skills.
 
 ## 📖 About
-This is a functional online store built to support the sale of women's handicrafts (such as cushions, woodworks, and puffs). It features a complete shopping flow from user registration to product selection and checkout simulation.
+This online store allows users to browse and purchase handcrafted items. It includes everything needed for a smooth shopping experience, from signing up to selecting products and completing a checkout simulation.
 
 * **Project Type:** University Final Year Project (Bachelor's)
 * **Focus:** E-commerce, Web Development, Database Management
